@@ -20,7 +20,7 @@
     "url": "https://github.com/souricevincent/node-convert-svg-paths"
   },
   "dependencies": {
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "svgpath": "^2.2.2",
     "xmldom": "^0.1.27"
   }
